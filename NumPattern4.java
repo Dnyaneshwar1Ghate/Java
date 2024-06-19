@@ -8,10 +8,10 @@ public class NumPattern4 {
      */
     public static void main(String[] args) {
         
-        for (int i = 01; i <5; i++) {
+        for (int i = 1; i <=5; i++) {
             for (int j = i; j > 0; j--) {
 
-                System.out.print(j);
+                System.out.print(j+" ");
             }
             System.out.println(" ");
         }
