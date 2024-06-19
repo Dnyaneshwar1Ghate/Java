@@ -1,4 +1,4 @@
-public class NumPattern3 {\
+public class NumPattern3 {
     /*
         1 
         23
